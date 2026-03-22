@@ -12,5 +12,6 @@ int main () {
   cin >> number2
   cout << "Insira a operação" << endl;
   cin >> operation
-  cout << number1 operation number2
+  int result = number1operationnumber2
+  cout << result
 }
