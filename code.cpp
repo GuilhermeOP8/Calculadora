@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () {
-  int = number1
-  int = number2
-  int = operation
+  int number1
+  int number2
+  int operation
 
   cout << "Insira o primeiro número" << endl;
   cin >> number1
