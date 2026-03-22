@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace stl;
+using namespace std;
 
 int main () {
   cout << "Insira o primeiro número" << endl;
