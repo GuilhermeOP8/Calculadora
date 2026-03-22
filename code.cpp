@@ -2,16 +2,15 @@
 using namespace std;
 
 int main () {
-  string = number1
-  string = number2
-  string = operation
+  int = number1
+  int = number2
+  int = operation
 
   cout << "Insira o primeiro número" << endl;
-  cin >> number 1
+  cin >> number1
   cout << "Insira o segundo número" << endl;
   cin >> number2
   cout << "Insira a operação" << endl;
   cin >> operation
-  cout << number1, operation, number2
-    }
-
+  cout << number1 operation number2
+}
