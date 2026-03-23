@@ -7,22 +7,22 @@ int main () {
   int operation
 
   cout << "Insira o primeiro número" << endl;
-  cin >> number1
+  cin >> number1;
   cout << "Insira o segundo número" << endl;
-  cin >> number2
+  cin >> number2;
   cout << "Insira a operação" << endl;
-  cin >> operation
+  cin >> operation;
   if (operation == 1) {
-    cout << number1+number2
+    cout << number1+number2 << endl;
   }
   else if (operation == 2) {
-    cout << number1-number2
+    cout << number1-number2 << endl;
   }
   else if (operation == 3) {
-    cout << number1*number2
+    cout << number1*number2 << endl;
   }
   else if (operation == 4) {
-    cout << number1/number2
+    cout << number1/number2 << endl;
   }
   
 }
