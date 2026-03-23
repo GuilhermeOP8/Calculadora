@@ -12,6 +12,8 @@ int main () {
   cin >> number2
   cout << "Insira a operação" << endl;
   cin >> operation
-  int result = number1operationnumber2
-  cout << result
+  if (operation == *) {
+    cout << number1*number2
+  }
+  
 }
